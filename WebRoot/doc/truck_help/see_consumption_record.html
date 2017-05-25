@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <title>帮助中心</title>           
+        <link rel="stylesheet" type="text/css" href="public.css" />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script> 
+        <script type="text/javascript" src="public.js"></script>  
+    </head>
+             
+    <body>
+        <header>
+        <a href="truck_help.html">
+            <img src="http://7xsa3r.com1.z0.glb.clouddn.com/close_icon.png" alt="" />
+        </a>
+        <h2>如何查询收支记录？</h2>
+            
+        </header>
+        <h4>如何查询收支记录？</h4>      
+        <p>进入【我的】页面后，点击【我的钱包】->【收支明细】，在页面的右上角点击【全部】，选择【收入】类型，即可查询到对应的收入记录。</p>  
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/consumption_record_1.png" alt="" />
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/consumption_record_2.png" alt="" />
+
+        <p>点击下方按钮可立即进入收支明细查看:</p>
+        <div id="btn" onclick="SeeConsumptionRecord()" >查看收支明细</div>
+        
+            <script type="text/javascript">
+                 function SeeConsumptionRecord(){
+                     window.jsObj.SeeConsumptionRecord();                
+                 }
+            </script>
+        
+        <div id="bottom_tools">
+            <a id="scrollUp" style="display:none">
+                 <img class="qr_img" src="http://7xsa3r.com1.z0.glb.clouddn.com/scroll_to_top_icon2.png" alt="" />
+            </a>
+        </div>          
+        
+
+    </body>
+</html>

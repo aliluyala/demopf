@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <title>帮助中心</title>           
+        <style type="text/css">
+        /* 初始化 */
+        @charset "utf-8";
+        /* 取消链接高亮  */
+        body,div,ul,li,ol,h1,h2,h3,h4,h5,h6,input,textarea,select,p,dl,dt,dd,a,img,button,form,table,th,tr,td,tbody,article,
+        aside, details,figcaption,figure,footer,header,hgroup, menu,nav,section{ -webkit-tap-highlight-color:rgba(0, 0, 0, 0); }
+        /* 设置HTML5元素为块 */
+        article, aside, details,figcaption,figure,footer,header,hgroup, menu,nav,section {
+            display: block;
+        }
+        /* 图片自适应 */
+        img { max-width: 100%;height: auto;width:auto\9; /* ie8 */-ms-interpolation-mode:bicubic;/*为了照顾ie图片缩放失真*/}
+        /* 初始化 */
+        body,div,ul,li,ol,h1,h2,h3,h4,h5,h6,input,textarea,select,p,dl,dt,dd,a,img,button,form,table,th,tr,td,tbody,article,
+        aside, details,figcaption,figure,footer,header,hgroup, menu,nav,section{margin:0; padding:0; border:none; color:#444444;}
+        body{ font: normal 14px/1.5 Tahoma,"Lucida Grande",Verdana,"Microsoft Yahei",STXihei,hei; overflow:hidden;}
+        em,i{ font-style:normal;}
+        strong{ font-weight: normal;}
+        .clearfix:after{content:""; display:block; visibility:hidden; height:0; clear:both;}
+        .clearfix{zoom:1;}
+        a{text-decoration:none; color:#444444; font-family:Microsoft YaHei,Tahoma,Arial,sans-serif;}
+        a:hover{/* color:#ff5501; */ text-decoration:none;}
+        ul,ol{list-style:none;}
+        h1, h2, h3, h4, h5, h6{ font-size:100%; font-family: Microsoft YaHei;}
+        img{border: none; display:block; }
+        body,html{ width:100%; height:auto; background: #ececec; overflow-x: hidden;}
+         /* css */
+        h2{width:90%; height: 80px; text-align:center; font-size:16px; padding:0 5%; margin-top:20px;}
+        h4{width:90%; line-height:40px; text-align:left; color:#444444; padding:0 5%; font-size: 15px; }
+        .list li{width:90%; line-height:40px; color:#444444; padding:0 5%; text-align: justify; text-justify: inter-ideograph; border-bottom: 1px solid #ececec; background: #fff; }
+        .list .list_hide,.list .list_hidee,.list .list_there{width:90%; line-height:24px; color:#444444; padding:0 5%; text-align: justify; text-justify: inter-ideograph; border-bottom: 1px solid #ececec; margin: 10px 0;  }
+        .list li a span{ float: right; margin:15px 5px;  }        
+        .text_2{text-indent:2em; }
+        .list_two li{float: left; width:50%;box-sizing:border-box;  }
+        .line_right{border-right:1px solid #ececec; }
+        .line_right a{display:block;}
+        .hide,.hidee,.there3{ display: none; }
+        #target,#target2,#target3{width: 10px;height: 10px;border: 1px solid #ccc; border-left: none;border-bottom: none; }
+        .a{ transform:rotate(45deg);}
+        .b{ transform:rotate(135deg);}
+        
+
+        </style>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script> 
+        <script type="text/javascript">            
+           $(function() {       
+                $('.one').click(function(){
+                    if ($('.list_hide').hasClass('hide')) {
+                            $('.list_hide').removeClass('hide');
+                        } else{
+                            $('.list_hide').addClass('hide');
+                        }
+                })
+                $('.two').click(function(){
+                    if ($('.list_hidee').hasClass('hidee')) {
+                            $('.list_hidee').removeClass('hidee');
+                        } else{
+                            $('.list_hidee').addClass('hidee');
+                        }
+                })
+                $('.there').click(function(){
+                    if ($('.list_there').hasClass('there3')) {
+                            $('.list_there').removeClass('there3');
+                        } else{
+                            $('.list_there').addClass('there3');
+                        }
+                })
+            });     
+        </script>        
+         <script type="text/javascript">            
+           $(function() {       
+                $('.list_two li').click(function(){
+                     $(this).css('background', '#e5e5e5')
+                })
+            });  
+            $(function() {       
+                $('.list_two li').click(function(){
+                     $(this).css('background', '#fff')
+                })
+            });       
+        </script>
+
+        <script>        
+        $(function(){
+                $('.one').click(function(){
+                    if ($('#target').hasClass('b')) {
+                        $('#target').removeClass('b');
+                    } else{
+                        
+                        $('#target').addClass('b');
+                    }
+                })
+                $('.two').click(function(){
+                    if ($('#target2').hasClass('b')) {
+                        $('#target2').removeClass('b');
+                    } else{                        
+                        $('#target2').addClass('b');
+                    }
+                })
+                $('.there').click(function(){
+                    if ($('#target3').hasClass('b')) {
+                        $('#target3').removeClass('b');
+                    } else{                        
+                        $('#target3').addClass('b');
+                    }
+                })
+            })
+        </script>
+
+
+    </head>         
+    <body>
+        <h4>操作指引</h4>
+        <div >
+            <ul class="list list_two">
+                <li class="line_right">
+                    <a href="release_car.html">发布空车
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>                
+                <li class="line_right">
+                    <a href="orders_sch.html">接单流程
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li class="line_right">
+                    <a href="wallet.html">钱包充值
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li class="line_right">
+                    <a href="evaluate.html">评价
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>                
+                <li class="line_right">
+                    <a href="telephone_recharge.html">话费充值
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>                
+                <li class="line_right">
+                    <a href="insurance.html">在线投保
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li class="line_right">
+                    <a href="#">付款流程
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li class="line_right">
+                    <a href="#">联系客服
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li class="line_right">
+                    <a href="#">下载与认证
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li class="line_right">
+                    <a href="#">下载与认证
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <h4>热点问题</h4>   
+        <div>
+            <ul class="list">
+                <!-- <li class="one">修改密码/忘记密码, 该怎么办？
+                    <a href="#" >
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <div class="list_hide hide">修改密码/忘记密码, 该怎么办？修改密码/忘记密码, 该怎么办？修改密码/忘记密码, 该怎么办？修改密码/忘记密码, 该怎么办？</div> -->
+
+                <li class="two">这个软件收费吗？
+                    <a href="#" >
+                        <span id ="target2" class="a"></span>
+                    </a>
+                </li>
+                <div class="list_hidee hidee">运的易是一款收费软件，使用费用为365元/年；免费试用体验期限为1个月，试用期满后系统会提示您充值年费，如果您没有充值年费，那么您将无法享受平台的服务。</div>
+                
+                <li class="there">如何联系客服？
+                	<a href="#">
+                        <span id ="target3" class="a"></span>
+                    </a>
+                </li> 
+                <div class="list_there there3">您在使用运的易软件的过程中遇到任何问题，可通过以下方式拨打客服电话咨询。</br>
+                1. 进入系统后，点击屏幕下方【一键联系客服】。</br>
+                2. 在注册和登录页面点击右上角【帮助】。</br>
+                3. 进入【我的】后，点击【系统设置】->【客服电话】。</br>
+                4. 用手机直接拔打客服电话<a href="tel:400 675 6568"> 4006756568。</a>
+                </div>
+                <li>忘记登录密码, 该怎么办？
+                    <a href="forget_password.html"> 
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>         
+                <li>忘记支付密码, 该怎么办？
+                    <a href="forge_paymentt_password.html">
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li>驿币如何使用？
+                    <a href="forget_password.html">
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+                <li>如何查询收支记录？
+                    <a href="consumption_record.html">
+                        <span id ="target" class="a"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        
+        
+        
+
+    </body>
+</html>

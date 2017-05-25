@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <title>帮助中心</title>           
+        <link rel="stylesheet" type="text/css" href="public.css" />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script> 
+        <script type="text/javascript" src="public.js"></script>  
+    </head>
+
+    <body>
+        <header>
+        <a href="truck_help.html">
+            <img src="http://7xsa3r.com1.z0.glb.clouddn.com/close_icon.png" alt="" />
+        </a>
+        <h2>团购消费如何支付？</h2>
+            
+        </header>
+        <h4>团购消费如何支付？</h4>      
+        <p>团购服务是服务于您的车辆运营的各项功能，包括车辆加油、车辆维修、宾馆餐厅预订等各项服务。运的易将根据不同增值服务提供相应的方式，利用团购模式为您提供质优价廉的服务。</p>  
+
+         <p>团购订单支付方式有两种方式：</br>
+            <b>方式一: </b></br>
+            到店消费后，由商家发起团购订单，系统将订单推送给司机支付，点击弹窗上【去支付】->输入密码后点击【付款】，即可完成团购订单支付。</p>  
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/groupon_consumption_4.png" alt="" />
+
+        <p><b>方式二: </b></br>
+        进入【我的】后，点击【团购订单】->找到待付款订单点击【付款】，输入密码后点击【付款】，即可完成团购订单支付。</p>  
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/groupon_consumption_5.png" alt="" />
+
+        <p>点击下方按钮可立即进入团购订单支付:</p>
+        <div id="btn" onclick="window.jsObj.GrouponOrder()" >团购订单</div>
+        <div id='buttons'>团购订单</div> 
+        <div id='log'>团购订单</div>
+        <!-- <div id="btn" onclick="insurance()" >在线投保</div>
+        <script type="text/javascript">
+            function insurance(){
+                window.jsObj.insurance();                
+            }
+        </script> --> 
+        <script>
+    window.onerror = function(err) {
+        log('window.onerror: ' + err)
+    }
+
+    function setupWebViewJavascriptBridge(callback) {
+        if (window.WebViewJavascriptBridge) { return callback(WebViewJavascriptBridge); }
+        if (window.WVJBCallbacks) { return window.WVJBCallbacks.push(callback); }
+        window.WVJBCallbacks = [callback];
+        var WVJBIframe = document.createElement('iframe');
+        WVJBIframe.style.display = 'none';
+        WVJBIframe.src = 'wvjbscheme://__BRIDGE_LOADED__';
+        document.documentElement.appendChild(WVJBIframe);
+        setTimeout(function() { document.documentElement.removeChild(WVJBIframe) }, 0)
+    }
+
+    setupWebViewJavascriptBridge(function(bridge) {
+        var uniqueId = 1
+        function log(message, data) {
+            var log = document.getElementById('log')
+            var el = document.createElement('div')
+            el.className = 'logLine'
+            el.innerHTML = uniqueId++ + '. ' + message + ':<br/>' + JSON.stringify(data)
+            if (log.children.length) { log.insertBefore(el, log.children[0]) }
+            else { log.appendChild(el) }
+        }
+
+        bridge.registerHandler('testJavascriptHandler', function(data, responseCallback) {
+            log('ObjC called testJavascriptHandler with', data)
+            var responseData = { 'Javascript Says':'Right back atcha!' }
+            log('JS responding with', responseData)
+            responseCallback(responseData)
+        })
+
+        document.body.appendChild(document.createElement('br'))
+
+        var callbackButton = document.getElementById('buttons').appendChild(document.createElement('button'))
+        callbackButton.innerHTML = 'Fire testObjcCallback'
+        callbackButton.onclick = function(e) {
+            e.preventDefault()
+            log('JS calling handler "testObjcCallback"')
+            bridge.callHandler('testObjcCallback', {'foo': 'bar'}, function(response) {
+                log('JS got response', response)
+            })
+        }
+    })
+    </script>
+
+        
+        <div id="bottom_tools">
+            <a id="scrollUp" style="display:none">
+                 <img class="qr_img" src="http://7xsa3r.com1.z0.glb.clouddn.com/scroll_to_top_icon2.png" alt="" />
+            </a>
+        </div> 
+
+
+            
+        
+
+    </body>
+</html>

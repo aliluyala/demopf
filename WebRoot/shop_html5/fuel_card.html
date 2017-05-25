@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <title>帮助中心</title>           
+        <link rel="stylesheet" type="text/css" href="public.css" />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script> 
+        <script type="text/javascript" src="public.js"></script>  
+    </head>
+
+    <body>
+        <header>
+        <a href="truck_help.html">
+            <img src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/close_icon.png" alt="" />
+        </a>
+        <h2>加油卡充值</h2>
+            
+        </header>
+        <h4>加油卡充值</h4>
+        <p>进入【首页】或【服务】后，点击【加油卡】->选择油卡类型、输入加油卡号和金额->点击【立即充值】;选择支付方式->点击【确认付款】，即可完成加油卡充值。</p>  
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/fuel_card_1.png" alt="" />
+        <img class="release_car3" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/fuel_card_2.png" alt="" />
+
+        <p><b class="blue">两种支付方式操作步骤</b></br>
+            <b>1. 余额支付方式：</b></br>
+            选择钱包余额支付后直接输入支付密码即可完成支付; 初始密码为手机号码的后6位数字。</p>  
+        <img class="release_car" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/wallet_6.png" alt="" />
+
+        <p><b>2. 微信支付方式：</b></br>
+            选择微信支付后进入微信界面点击【立即支付】，选择银行卡并输入微信支付密码，即可完成支付。</p>  
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/wallet_4.png" alt="" /> 
+
+        <h6>温馨提示：</h6>
+        <p class="ps">
+            第二次使用银行卡支付方式，只需选择历史银行卡后，点击【获取】验证码->输入短信验证码->【确认】，即可完成充值。
+        </p>
+
+        <p>点击下方按钮可立即进入加油卡充值:</p>
+        <div id="btn" onclick="FuelCard()" >加油卡充值</div>
+
+            <script type="text/javascript">
+                function FuelCard(){
+                    window.jsObj.FuelCard();
+                }
+            </script>  
+
+        <div class="fengexian"></div>
+
+        <h4 class="margintop">查看加油卡充值订单</h4>
+        <p>在加油卡充值界面上，点击右上角【充值记录】->找到充值订单->点击充值订单列表，即可查看到充值订单详细资料。</p>
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/fuel_card_3.png" alt="" />
+        <img class="release_car3" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/fuel_card_4.png" alt="" />
+        
+        
+
+        <p>点击下方按钮可立即进入充值记录:</p>
+        <div id="btn" onclick="FuelCardRecord()" >查看充值记录</div>
+         
+            <script type="text/javascript">
+                function FuelCardRecord(){
+                    window.jsObj.FuelCardRecord();                
+                }
+            </script>
+        
+        <div id="bottom_tools">
+            <a id="scrollUp" style="display:none">
+                 <img class="qr_img" src="http://7xsa3r.com1.z0.glb.clouddn.com/img/truck_html/scroll_to_top_icon2.png" alt="" />
+            </a>
+        </div>     
+
+    </body>
+</html>

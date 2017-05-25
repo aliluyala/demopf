@@ -1,0 +1,50 @@
+.user{
+       	background:url(../exticons/user/user.png) right  no-repeat;
+}
+.user_go{
+       	background:url(../exticons/user/user_go.png) right  no-repeat;
+}
+.key{
+       	background:url(../exticons/key.png) right  no-repeat;
+}
+
+.refush{
+       	background:url(../exticons/arrow/arrow_refresh.png) right  no-repeat;
+}
+
+.arrow_out{
+       	background:url(../exticons/arrow/arrow_out.png) right  no-repeat;
+}
+
+.arrow_down{
+       	background:url(../exticons/arrow/arrow_down.png) right  no-repeat;
+}
+
+.arrow_up{
+       	background:url(../exticons/arrow/arrow_up.png) right  no-repeat;
+}
+
+.book{
+       	background:url(../exticons/book.png) right  no-repeat;
+}
+
+.zoom{
+       	background:url(../exticons/zoom/zoom.png) right  no-repeat;
+}
+
+
+.home{
+       	background:url(../images/icon/home.gif) right  no-repeat;
+}
+
+.preview{
+       	background:url(../exticons/photoandpic/photo.png) right  no-repeat;
+}
+
+.lock{
+       	background:url(../exticons/lock/lock.png) right  no-repeat;
+}
+
+.unlock{
+       	background:url(../exticons/lock/lock_open.png) right  no-repeat;
+} 

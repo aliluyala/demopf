@@ -1,0 +1,13 @@
+.header { background: #7F99BE url(../images/layout-browser-hd-bg2.png)!important;} 
+.header h1 {font-size: 16px;color: #fff;padding: 3px 10px; font-family:"微软雅黑","黑体"}
+
+.tabs{} 
+.tabs{background-image: url(../images/icon/bulletin_manager.gif) !important;} 
+.manage{background-image: url(../images/icon/admin.gif) !important;} 
+.home{background-image: url(../images/icon/home.gif) !important; line-height:30px;} 
+.icon-menu{background-image: url(../icon/images/sys.gif) !important;}
+.grid-add{background-image: url(../images/icon/add.png) !important;}
+.grid-delete{background-image: url(../images/icon/delete.png) !important;}
+.grid-mif{background-image: url(../images/icon/edit.gif) !important;}
+.grid-input{background-image: url(../images/icon/group_gear.gif) !important;}
+.icon-first.home{background-image: url(../images/icon/home.gif) !important; line-height:30px;} 

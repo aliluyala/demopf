@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <title>帮助中心</title>           
+        <style type="text/css">
+        /* 初始化 */
+        @charset "utf-8";
+        /* 取消链接高亮  */
+        body,div,ul,li,ol,h1,h2,h3,h4,h5,h6,input,textarea,select,p,dl,dt,dd,a,img,button,form,table,th,tr,td,tbody,article,
+        aside, details,figcaption,figure,footer,header,hgroup, menu,nav,section{ -webkit-tap-highlight-color:rgba(0, 0, 0, 0); }
+        /* 设置HTML5元素为块 */
+        article, aside, details,figcaption,figure,footer,header,hgroup, menu,nav,section {
+            display: block;
+        }
+        /* 图片自适应 */
+        img { max-width: 100%;height: auto;width:auto\9; /* ie8 */-ms-interpolation-mode:bicubic;/*为了照顾ie图片缩放失真*/}
+        /* 初始化 */
+        body,div,ul,li,ol,h1,h2,h3,h4,h5,h6,input,textarea,select,p,dl,dt,dd,a,img,button,form,table,th,tr,td,tbody,article,
+        aside, details,figcaption,figure,footer,header,hgroup, menu,nav,section{margin:0; padding:0; border:none; color:#444444;}
+        body{ font: normal 14px/1.5 Tahoma,"Lucida Grande",Verdana,"Microsoft Yahei",STXihei,hei; overflow:hidden;}
+        em,i{ font-style:normal;}
+        strong{ font-weight: normal;}
+        .clearfix:after{content:""; display:block; visibility:hidden; height:0; clear:both;}
+        .clearfix{zoom:1;}
+        a{text-decoration:none; color:#444444; font-family:Microsoft YaHei,Tahoma,Arial,sans-serif;}
+        a:hover{color:#ff5501; text-decoration:none;}
+        ul,ol{list-style:none;}
+        h1, h2, h3, h4, h5, h6{ font-size:100%; font-family: Microsoft YaHei;}
+        img{border: none; display:block; }
+        body,html{ width:100%; height:auto; background: #fbfbfb; overflow-x: hidden;}
+         /* css */
+        header{width:100%; height:50px; background: #ff5501; display:block; box-sizing: border-box; line-height:3.5rem; position: relative; position:fixed; } 
+        header a{ line-height: 50px; color:#fff; position: absolute;  width:40px; height:40px; }
+        header a img{width:28px; height:28px; background-size: 100% 100%; padding:10px; }
+        header h2{text-align: center;line-height:50px; color:#fff; font-size: 20px; font-weight: 100;  }  
+        h4{width:90%; line-height:50px; font-weight: bold; text-align:left; color:#444444; padding:0 5%; font-size: 16px; border-bottom: 1px solid #ececec; margin-top:50px; }
+        p{width:90%; line-height:20px; color:#444444; padding:3% 5%; text-align: justify; text-justify: inter-ideograph; font-size: 14px;}
+        .release_car{width: 254px; height:auto; margin:0 auto; padding:10px 0;}
+        h6{width:90%; line-height:30px; text-align:left; color:#ff5501; padding:0 5%; font-size: 14px; font-weight: normal; }
+        .ps{width:90%; line-height:20px; color:#444444; padding:0 5% 5% 5%; text-align: justify; text-justify: inter-ideograph; font-size: 14px; }   
+        .release_car2{width: 314px; height:auto; margin:0 auto; padding:10px 0;}
+        
+        #bottom_tools{ width:35px;  position: fixed; right:15px;  bottom:15px;  cursor: pointer;} 
+        #btn{width: 150px; line-height: 40px; border: 1px solid #ff5501; text-align: center;  margin: 5px auto 20px; /* display:flex; justify-content:center; align-items:center;  */border-radius:5px; font-size: 16px; }
+        #btn a{color: #ff5501;}
+        </style>  
+        </head>
+
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.0.min.js"></script> 
+        <script type="text/javascript" src="js/TouchSlide.1.1.js"></script>
+        <script type="text/javascript">            
+            $(function(){
+                var $body = $(document.body);
+                var $bottomTools = $('.bottom_tools');
+                var qrImg = $('.qr_img');
+                    $(window).scroll(function () {
+                        var scrollHeight = $(document).height();
+                        var scrollTop = $(window).scrollTop();
+                        var $windowHeight = $(window).innerHeight();
+                        scrollTop > 50 ? $("#scrollUp").fadeIn(200).css("display","block") : $("#scrollUp").fadeOut(200);
+                    });
+                    $('#scrollUp').click(function (e) {
+                        e.preventDefault();
+                        $('html,body').animate({ scrollTop:0});
+                    });                
+            });
+        </script>    
+             
+    <body>
+        <header>
+        <a href="truck_help.html">
+            <img src="http://7xsa3r.com1.z0.glb.clouddn.com/close_icon.png" alt="" />
+        </a>
+        <h2>如何查询收支记录？</h2>
+            
+        </header>
+        <h4>如何查询收支记录？</h4>      
+        <p>进入【我的】页面后，点击【我的钱包】->【收支明细】，在页面的右上角点击【全部】，选择【收入】类型，即可查询到对应的收入交易记录。</p>  
+        <img class="release_car2" src="http://7xsa3r.com1.z0.glb.clouddn.com/consumption_record.png" alt="" />
+
+        <p>点击下方按钮可立即进入收支明细查看:</p>
+
+        <div id="btn">
+            <a href="#" onclick="window.jsobj.ViewPaymentDetails()" >查看收支明细</a> 
+        </div>
+
+        <div id="btn">
+        <input type="button" value="" onclick="window.jsobj.ViewPaymentDetails()">查看收支明细
+         </div>
+
+        <div id="btn" onclick="window.jsobj.ViewPaymentDetails()">
+        查看收支明细
+        </div>
+        
+        <div id="bottom_tools">
+         <a id="scrollUp" style="display:none">
+             <img class="qr_img" src="http://7xsa3r.com1.z0.glb.clouddn.com/scroll_to_top_icon2.png" alt="" />
+         </a>
+        </div>
+
+
+         
+
+
+            
+        
+
+    </body>
+</html>

@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5d096ed-6404-44fd-8438-a50cdc4f2159" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js" afterPath="$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ydy258/ydy/controller/ProxyAction.java" afterPath="$PROJECT_DIR$/src/com/ydy258/ydy/controller/ProxyAction.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="truckuser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="52" selection-end-column="10" />
+              <folding>
+                <marker date="1495594278348" expanded="true" signature="1825:1886" ph="{&quot;id&quot;: 'query'...}" />
+                <marker date="1495594278348" expanded="true" signature="22926:22960" ph="{&quot;layout&quot;: 'fit'...}" />
+                <marker date="1495594278348" expanded="true" signature="23007:25079" ph="{&quot;title&quot;: '续服务时间'...}" />
+                <marker date="1495594278348" expanded="true" signature="23204:23344" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="23229:23272" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="23302:23338" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="23358:25075" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="23359:25067" ph="{&quot;id&quot;: 'continueform'...}" />
+                <marker date="1495594278348" expanded="true" signature="23613:24072" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="23618:23733" ph="{&quot;id&quot;: 'contiuneTruckId'...}" />
+                <marker date="1495594278348" expanded="true" signature="23738:24060" ph="{&quot;id&quot;: 'years'...}" />
+                <marker date="1495594278348" expanded="true" signature="24118:25059" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="24119:24940" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="24212:24931" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="24369:24915" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="24403:24892" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="24464:24648" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="24709:24867" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="24941:25058" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="25002:25049" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="25126:27108" ph="{&quot;title&quot;: '充值'...}" />
+                <marker date="1495594278348" expanded="true" signature="25320:25460" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="25345:25388" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="25418:25454" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="25474:27104" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="25475:27096" ph="{&quot;id&quot;: 'balanceform'...}" />
+                <marker date="1495594278348" expanded="true" signature="25725:26105" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="25730:25844" ph="{&quot;id&quot;: 'balanceTruckId'...}" />
+                <marker date="1495594278348" expanded="true" signature="25850:26093" ph="{&quot;id&quot;: 'balance'...}" />
+                <marker date="1495594278348" expanded="true" signature="26151:27088" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="26152:26970" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="26243:26961" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="26400:26945" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="26434:26922" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="26495:26678" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="26739:26897" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="26971:27087" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="27032:27078" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="27154:29229" ph="{&quot;title&quot;: '充值'...}" />
+                <marker date="1495594278348" expanded="true" signature="27348:27488" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="27373:27416" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="27446:27482" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="27502:29225" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="27503:29217" ph="{&quot;id&quot;: 'addPoints4Truckform'...}" />
+                <marker date="1495594278348" expanded="true" signature="27760:28222" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="27765:27872" ph="{&quot;id&quot;: 'truckIdf'...}" />
+                <marker date="1495594278348" expanded="true" signature="27878:28210" ph="{&quot;id&quot;: 'pointf'...}" />
+                <marker date="1495594278348" expanded="true" signature="28268:29209" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="28269:29089" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="28360:29080" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="28517:29064" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="28551:29041" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="28612:28797" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="28858:29016" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="29090:29208" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="29151:29199" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="29277:31300" ph="{&quot;title&quot;: '退款'...}" />
+                <marker date="1495594278348" expanded="true" signature="29471:29611" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="29496:29539" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="29569:29605" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="29625:31296" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="29626:31288" ph="{&quot;id&quot;: 'minusBalanceTallyform'...}" />
+                <marker date="1495594278348" expanded="true" signature="29887:30289" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="29892:30011" ph="{&quot;id&quot;: 'minusBalanceTallyId'...}" />
+                <marker date="1495594278348" expanded="true" signature="30017:30277" ph="{&quot;id&quot;: 'minusBalanceTallybalance'...}" />
+                <marker date="1495594278348" expanded="true" signature="30335:31280" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="30336:31158" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="30427:31149" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="30584:31133" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="30618:31110" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="30679:30866" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="30927:31085" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="31159:31279" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="31220:31270" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="31350:33350" ph="{&quot;title&quot;: '充油卡'...}" />
+                <marker date="1495594278348" expanded="true" signature="31545:31685" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="31570:31613" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="31643:31679" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="31699:33346" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="31700:33338" ph="{&quot;id&quot;: 'jyRechargeform'...}" />
+                <marker date="1495594278348" expanded="true" signature="31956:32341" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="31961:32078" ph="{&quot;id&quot;: 'jyRechargeTruckId'...}" />
+                <marker date="1495594278348" expanded="true" signature="32084:32329" ph="{&quot;id&quot;: 'recharge'...}" />
+                <marker date="1495594278348" expanded="true" signature="32387:33330" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="32388:33209" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="32479:33200" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="32636:33184" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="32670:33161" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="32731:32917" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="32978:33136" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="33210:33329" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="33271:33320" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="33400:35403" ph="{&quot;title&quot;: '充高速费'...}" />
+                <marker date="1495594278348" expanded="true" signature="33596:33736" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="33621:33664" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="33694:33730" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="33750:35399" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="33751:35391" ph="{&quot;id&quot;: 'gsRechargeform'...}" />
+                <marker date="1495594278348" expanded="true" signature="34007:34394" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="34012:34129" ph="{&quot;id&quot;: 'gsRechargeTruckId'...}" />
+                <marker date="1495594278348" expanded="true" signature="34135:34382" ph="{&quot;id&quot;: 'gsrecharge'...}" />
+                <marker date="1495594278348" expanded="true" signature="34440:35383" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="34441:35262" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="34532:35253" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="34689:35237" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="34723:35214" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="34784:34970" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="35031:35189" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="35263:35382" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="35324:35373" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="35445:41685" ph="{&quot;title&quot;: '司机审核'...}" />
+                <marker date="1495594278348" expanded="true" signature="35641:35781" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="35666:35709" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="35739:35775" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="35795:41681" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="35796:41673" ph="{&quot;id&quot;: 'checkform'...}" />
+                <marker date="1495594278348" expanded="true" signature="36044:40089" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="36049:36155" ph="{&quot;id&quot;: 'truckId'...}" />
+                <marker date="1495594278348" expanded="true" signature="36160:36402" ph="/*...*/" />
+                <marker date="1495594278348" expanded="true" signature="36414:36476" ph="{&quot;xtype&quot;: 'label'...}" />
+                <marker date="1495594278348" expanded="true" signature="36511:36657" ph="{&quot;id&quot;: 'jszp'...}" />
+                <marker date="1495594278348" expanded="true" signature="36671:36887" ph="{&quot;id&quot;: 'drivingLicenseNumber'...}" />
+                <marker date="1495594278348" expanded="true" signature="36900:36987" ph="{&quot;xtype&quot;: 'label'...}" />
+                <marker date="1495594278348" expanded="true" signature="37020:37163" ph="{&quot;id&quot;: 'idCardp'...}" />
+                <marker date="1495594278348" expanded="true" signature="37171:37362" ph="{&quot;id&quot;: 'idCardNumber'...}" />
+                <marker date="1495594278348" expanded="true" signature="37373:37426" ph="{&quot;xtype&quot;: 'label'...}" />
+                <marker date="1495594278348" expanded="true" signature="37459:37598" ph="{&quot;id&quot;: 'xszp'...}" />
+                <marker date="1495594278348" expanded="true" signature="37609:37799" ph="{&quot;id&quot;: 'registrationNumber'...}" />
+                <marker date="1495594278348" expanded="true" signature="37806:37964" ph="{&quot;id&quot;: 'brandType'...}" />
+                <marker date="1495594278348" expanded="true" signature="37971:38133" ph="{&quot;id&quot;: 'truckIDCode'...}" />
+                <marker date="1495594278348" expanded="true" signature="38140:38299" ph="{&quot;id&quot;: 'motorCode'...}" />
+                <marker date="1495594278348" expanded="true" signature="38306:38470" ph="{&quot;id&quot;: 'registerDate'...}" />
+                <marker date="1495594278348" expanded="true" signature="38477:38641" ph="{&quot;id&quot;: 'dispCardDate'...}" />
+                <marker date="1495594278348" expanded="true" signature="38648:38799" ph="{&quot;id&quot;: 'gsCard'...}" />
+                <marker date="1495594278348" expanded="true" signature="38806:38963" ph="{&quot;id&quot;: 'jyCard'...}" />
+                <marker date="1495594278348" expanded="true" signature="38973:39131" ph="{&quot;id&quot;: 'czCard'...}" />
+                <marker date="1495594278348" expanded="true" signature="39142:39820" ph="{&quot;id&quot;: 'checked'...}" />
+                <marker date="1495594278348" expanded="true" signature="39476:39816" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="39518:39619" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="39556:39607" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="39657:39811" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="39693:39747" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="39751:39804" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="39827:40077" ph="{&quot;id&quot;: 'tips'...}" />
+                <marker date="1495594278348" expanded="true" signature="39914:40076" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="40135:41665" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="40136:41557" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="40229:41548" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="40404:41001" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="40440:40986" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="40478:40962" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="40540:40716" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41005:41532" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41042:41515" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41103:41274" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41335:41490" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41558:41664" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="41619:41655" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41736:44894" ph="{&quot;title&quot;: '确认信息'...}" />
+                <marker date="1495594278348" expanded="true" signature="41934:42081" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="41959:42002" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="42031:42074" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="42095:44890" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="42096:44882" ph="{&quot;id&quot;: 'detailform'...}" />
+                <marker date="1495594278348" expanded="true" signature="42342:44558" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="42349:42513" ph="{&quot;id&quot;: 'driverNamed'...}" />
+                <marker date="1495594278348" expanded="true" signature="42515:42669" ph="{&quot;id&quot;: 'mobiled'...}" />
+                <marker date="1495594278348" expanded="true" signature="42671:42837" ph="{&quot;name&quot;: 'plateNumberd'...}" />
+                <marker date="1495594278348" expanded="true" signature="42839:43006" ph="{&quot;name&quot;: 'idCardNumber'...}" />
+                <marker date="1495594278348" expanded="true" signature="43008:43187" ph="{&quot;name&quot;: 'registrationNumber'...}" />
+                <marker date="1495594278348" expanded="true" signature="43189:43350" ph="{&quot;name&quot;: 'truckType'...}" />
+                <marker date="1495594278348" expanded="true" signature="43352:43516" ph="{&quot;name&quot;: 'deadWeight'...}" />
+                <marker date="1495594278348" expanded="true" signature="43525:43681" ph="{&quot;name&quot;: 'balance'...}" />
+                <marker date="1495594278348" expanded="true" signature="43690:43827" ph="{&quot;name&quot;: 'expireTime'...}" />
+                <marker date="1495594278348" expanded="true" signature="43834:43983" ph="{&quot;name&quot;: 'points'...}" />
+                <marker date="1495594278348" expanded="true" signature="43990:44105" ph="{&quot;name&quot;: 'proxy'...}" />
+                <marker date="1495594278348" expanded="true" signature="44117:44267" ph="{&quot;name&quot;: 'gsCard'...}" />
+                <marker date="1495594278348" expanded="true" signature="44274:44424" ph="{&quot;name&quot;: 'jyCard'...}" />
+                <marker date="1495594278348" expanded="true" signature="44431:44548" ph="{&quot;name&quot;: 'czCard'...}" />
+                <marker date="1495594278348" expanded="true" signature="44604:44874" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="44605:44757" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="44696:44748" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="44758:44873" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="44819:44864" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="44943:47265" ph="{&quot;title&quot;: '司机审核'...}" />
+                <marker date="1495594278348" expanded="true" signature="45139:45285" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="45164:45207" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="45236:45279" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="45299:47261" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="45300:47253" ph="{&quot;id&quot;: 'editform'...}" />
+                <marker date="1495594278348" expanded="true" signature="45544:46445" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="45548:45653" ph="{&quot;id&quot;: 'edittruckId'...}" />
+                <marker date="1495594278348" expanded="true" signature="45660:45844" ph="{&quot;id&quot;: 'driverNamee'...}" />
+                <marker date="1495594278348" expanded="true" signature="45851:46028" ph="{&quot;id&quot;: 'mobilee'...}" />
+                <marker date="1495594278348" expanded="true" signature="46035:46222" ph="{&quot;id&quot;: 'plateNumbere'...}" />
+                <marker date="1495594278348" expanded="true" signature="46229:46433" ph="{&quot;id&quot;: 'drivingLicenseNumbere'...}" />
+                <marker date="1495594278348" expanded="true" signature="46491:47245" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="46492:47132" ph="{&quot;text&quot;: '确定'...}" />
+                <marker date="1495594278348" expanded="true" signature="46583:47123" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="46675:47107" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="46712:47084" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="46773:46892" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="46953:47059" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="47133:47244" ph="{&quot;text&quot;: '取消'...}" />
+                <marker date="1495594278348" expanded="true" signature="47194:47235" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="47305:47494" ph="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+                <marker date="1495594278348" expanded="true" signature="47353:47466" ph="[...]" />
+                <marker date="1495594278348" expanded="true" signature="47558:48030" ph="{&quot;model&quot;: 'StatementsModel'...}" />
+                <marker date="1495594278348" expanded="true" signature="47652:47893" ph="{&quot;method&quot;: 'POST'...}" />
+                <marker date="1495594278348" expanded="true" signature="47802:47885" ph="{&quot;root&quot;: 'root'...}" />
+                <marker date="1495594278348" expanded="true" signature="47912:48026" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="47958:48017" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="48262:48402" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="48287:48330" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="48360:48396" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="48701:48742" ph="{&quot;loadingText&quot;: '正在查询,请等待...'...}" />
+                <marker date="1495594278348" expanded="true" signature="48785:48931" ph="{&quot;header&quot;: &quot;序号&quot;...}" />
+                <marker date="1495594278348" expanded="true" signature="48877:48925" ph="{...}" />
+                <marker date="1495594278348" expanded="true" signature="48937:49047" ph="{&quot;text&quot;: '支付类型'...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabPanel.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebRoot/app/view/TabPanel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="472" column="4" lean-forward="true" selection-start-line="472" selection-start-column="4" selection-end-line="472" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/app/controller/Menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2375">
+              <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/api/js/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding>
+                <marker date="1493867848000" expanded="true" signature="4436:4449" ph="..." />
+                <marker date="1493867848000" expanded="true" signature="5021:5034" ph="..." />
+                <marker date="1493867848000" expanded="true" signature="17713:17719" ph=" " />
+                <marker date="1493867848000" expanded="true" signature="17854:17866" ph="..." />
+                <marker date="1493867848000" expanded="true" signature="23756:23768" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/examples/bar-basic/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2000">
+              <caret line="80" column="3" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="80" selection-end-column="3" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="71" lean-forward="false" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myChart</find>
+      <find>54</find>
+      <find>widget-chart-box-1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebRoot/thirdpart/amazeui/myjs/index.js" />
+        <option value="$PROJECT_DIR$/WebRoot/thirdpart/amazeui/assets/js/charts/indexChart.js" />
+        <option value="$PROJECT_DIR$/WebRoot/thirdpart/amazeui/index.html" />
+        <option value="$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.html" />
+        <option value="$PROJECT_DIR$/WebRoot/thirdpart/highcharts/examples/bar-basic/index.htm" />
+        <option value="$PROJECT_DIR$/WebRoot/login.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/index.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/app/view/TabPanel.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thirdpart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usermanager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ydypf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wksps2014\ydypf\WebRoot\thirdpart\highcharts" />
+      <recent name="E:\wksps2014\ydypf\WebRoot\thirdpart\amazeui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d096ed-6404-44fd-8438-a50cdc4f2159" name="Default" comment="" />
+      <created>1494554810677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494554810677</updated>
+      <workItem from="1494554813324" duration="13839000" />
+      <workItem from="1494834444772" duration="7674000" />
+      <workItem from="1494897770864" duration="5887000" />
+      <workItem from="1495612643853" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27694000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="52" selection-end-column="10" />
+          <folding>
+            <marker date="1495594278348" expanded="true" signature="1825:1886" ph="{&quot;id&quot;: 'query'...}" />
+            <marker date="1495594278348" expanded="true" signature="22926:22960" ph="{&quot;layout&quot;: 'fit'...}" />
+            <marker date="1495594278348" expanded="true" signature="23007:25079" ph="{&quot;title&quot;: '续服务时间'...}" />
+            <marker date="1495594278348" expanded="true" signature="23204:23344" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23229:23272" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23302:23338" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23358:25075" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23359:25067" ph="{&quot;id&quot;: 'continueform'...}" />
+            <marker date="1495594278348" expanded="true" signature="23613:24072" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23618:23733" ph="{&quot;id&quot;: 'contiuneTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="23738:24060" ph="{&quot;id&quot;: 'years'...}" />
+            <marker date="1495594278348" expanded="true" signature="24118:25059" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="24119:24940" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="24212:24931" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24369:24915" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24403:24892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24464:24648" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24709:24867" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24941:25058" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="25002:25049" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25126:27108" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="25320:25460" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25345:25388" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25418:25454" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25474:27104" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25475:27096" ph="{&quot;id&quot;: 'balanceform'...}" />
+            <marker date="1495594278348" expanded="true" signature="25725:26105" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25730:25844" ph="{&quot;id&quot;: 'balanceTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="25850:26093" ph="{&quot;id&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="26151:27088" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="26152:26970" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="26243:26961" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26400:26945" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26434:26922" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26495:26678" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26739:26897" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26971:27087" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="27032:27078" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27154:29229" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="27348:27488" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27373:27416" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27446:27482" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27502:29225" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27503:29217" ph="{&quot;id&quot;: 'addPoints4Truckform'...}" />
+            <marker date="1495594278348" expanded="true" signature="27760:28222" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27765:27872" ph="{&quot;id&quot;: 'truckIdf'...}" />
+            <marker date="1495594278348" expanded="true" signature="27878:28210" ph="{&quot;id&quot;: 'pointf'...}" />
+            <marker date="1495594278348" expanded="true" signature="28268:29209" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="28269:29089" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="28360:29080" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28517:29064" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28551:29041" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28612:28797" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28858:29016" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29090:29208" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="29151:29199" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29277:31300" ph="{&quot;title&quot;: '退款'...}" />
+            <marker date="1495594278348" expanded="true" signature="29471:29611" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29496:29539" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29569:29605" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29625:31296" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29626:31288" ph="{&quot;id&quot;: 'minusBalanceTallyform'...}" />
+            <marker date="1495594278348" expanded="true" signature="29887:30289" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29892:30011" ph="{&quot;id&quot;: 'minusBalanceTallyId'...}" />
+            <marker date="1495594278348" expanded="true" signature="30017:30277" ph="{&quot;id&quot;: 'minusBalanceTallybalance'...}" />
+            <marker date="1495594278348" expanded="true" signature="30335:31280" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="30336:31158" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="30427:31149" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30584:31133" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30618:31110" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30679:30866" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30927:31085" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31159:31279" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="31220:31270" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31350:33350" ph="{&quot;title&quot;: '充油卡'...}" />
+            <marker date="1495594278348" expanded="true" signature="31545:31685" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31570:31613" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31643:31679" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31699:33346" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31700:33338" ph="{&quot;id&quot;: 'jyRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="31956:32341" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31961:32078" ph="{&quot;id&quot;: 'jyRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="32084:32329" ph="{&quot;id&quot;: 'recharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="32387:33330" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="32388:33209" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="32479:33200" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32636:33184" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32670:33161" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32731:32917" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32978:33136" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33210:33329" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="33271:33320" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33400:35403" ph="{&quot;title&quot;: '充高速费'...}" />
+            <marker date="1495594278348" expanded="true" signature="33596:33736" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33621:33664" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33694:33730" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33750:35399" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="33751:35391" ph="{&quot;id&quot;: 'gsRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="34007:34394" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34012:34129" ph="{&quot;id&quot;: 'gsRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="34135:34382" ph="{&quot;id&quot;: 'gsrecharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="34440:35383" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34441:35262" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="34532:35253" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34689:35237" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34723:35214" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34784:34970" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35031:35189" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35263:35382" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="35324:35373" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35445:41685" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="35641:35781" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35666:35709" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35739:35775" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35795:41681" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="35796:41673" ph="{&quot;id&quot;: 'checkform'...}" />
+            <marker date="1495594278348" expanded="true" signature="36044:40089" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="36049:36155" ph="{&quot;id&quot;: 'truckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="36160:36402" ph="/*...*/" />
+            <marker date="1495594278348" expanded="true" signature="36414:36476" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="36511:36657" ph="{&quot;id&quot;: 'jszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="36671:36887" ph="{&quot;id&quot;: 'drivingLicenseNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="36900:36987" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37020:37163" ph="{&quot;id&quot;: 'idCardp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37171:37362" ph="{&quot;id&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37373:37426" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37459:37598" ph="{&quot;id&quot;: 'xszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37609:37799" ph="{&quot;id&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37806:37964" ph="{&quot;id&quot;: 'brandType'...}" />
+            <marker date="1495594278348" expanded="true" signature="37971:38133" ph="{&quot;id&quot;: 'truckIDCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38140:38299" ph="{&quot;id&quot;: 'motorCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38306:38470" ph="{&quot;id&quot;: 'registerDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38477:38641" ph="{&quot;id&quot;: 'dispCardDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38648:38799" ph="{&quot;id&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38806:38963" ph="{&quot;id&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38973:39131" ph="{&quot;id&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="39142:39820" ph="{&quot;id&quot;: 'checked'...}" />
+            <marker date="1495594278348" expanded="true" signature="39476:39816" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39518:39619" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39556:39607" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39657:39811" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39693:39747" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39751:39804" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39827:40077" ph="{&quot;id&quot;: 'tips'...}" />
+            <marker date="1495594278348" expanded="true" signature="39914:40076" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40135:41665" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40136:41557" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="40229:41548" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40404:41001" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40440:40986" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40478:40962" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40540:40716" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41005:41532" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41042:41515" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41103:41274" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41335:41490" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41558:41664" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="41619:41655" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41736:44894" ph="{&quot;title&quot;: '确认信息'...}" />
+            <marker date="1495594278348" expanded="true" signature="41934:42081" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41959:42002" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42031:42074" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42095:44890" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42096:44882" ph="{&quot;id&quot;: 'detailform'...}" />
+            <marker date="1495594278348" expanded="true" signature="42342:44558" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42349:42513" ph="{&quot;id&quot;: 'driverNamed'...}" />
+            <marker date="1495594278348" expanded="true" signature="42515:42669" ph="{&quot;id&quot;: 'mobiled'...}" />
+            <marker date="1495594278348" expanded="true" signature="42671:42837" ph="{&quot;name&quot;: 'plateNumberd'...}" />
+            <marker date="1495594278348" expanded="true" signature="42839:43006" ph="{&quot;name&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43008:43187" ph="{&quot;name&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43189:43350" ph="{&quot;name&quot;: 'truckType'...}" />
+            <marker date="1495594278348" expanded="true" signature="43352:43516" ph="{&quot;name&quot;: 'deadWeight'...}" />
+            <marker date="1495594278348" expanded="true" signature="43525:43681" ph="{&quot;name&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="43690:43827" ph="{&quot;name&quot;: 'expireTime'...}" />
+            <marker date="1495594278348" expanded="true" signature="43834:43983" ph="{&quot;name&quot;: 'points'...}" />
+            <marker date="1495594278348" expanded="true" signature="43990:44105" ph="{&quot;name&quot;: 'proxy'...}" />
+            <marker date="1495594278348" expanded="true" signature="44117:44267" ph="{&quot;name&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44274:44424" ph="{&quot;name&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44431:44548" ph="{&quot;name&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44604:44874" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="44605:44757" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="44696:44748" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44758:44873" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="44819:44864" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44943:47265" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="45139:45285" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45164:45207" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45236:45279" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45299:47261" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45300:47253" ph="{&quot;id&quot;: 'editform'...}" />
+            <marker date="1495594278348" expanded="true" signature="45544:46445" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45548:45653" ph="{&quot;id&quot;: 'edittruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="45660:45844" ph="{&quot;id&quot;: 'driverNamee'...}" />
+            <marker date="1495594278348" expanded="true" signature="45851:46028" ph="{&quot;id&quot;: 'mobilee'...}" />
+            <marker date="1495594278348" expanded="true" signature="46035:46222" ph="{&quot;id&quot;: 'plateNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46229:46433" ph="{&quot;id&quot;: 'drivingLicenseNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46491:47245" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="46492:47132" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="46583:47123" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46675:47107" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46712:47084" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46773:46892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46953:47059" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47133:47244" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="47194:47235" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47305:47494" ph="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+            <marker date="1495594278348" expanded="true" signature="47353:47466" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="47558:48030" ph="{&quot;model&quot;: 'StatementsModel'...}" />
+            <marker date="1495594278348" expanded="true" signature="47652:47893" ph="{&quot;method&quot;: 'POST'...}" />
+            <marker date="1495594278348" expanded="true" signature="47802:47885" ph="{&quot;root&quot;: 'root'...}" />
+            <marker date="1495594278348" expanded="true" signature="47912:48026" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47958:48017" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48262:48402" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48287:48330" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48360:48396" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48701:48742" ph="{&quot;loadingText&quot;: '正在查询,请等待...'...}" />
+            <marker date="1495594278348" expanded="true" signature="48785:48931" ph="{&quot;header&quot;: &quot;序号&quot;...}" />
+            <marker date="1495594278348" expanded="true" signature="48877:48925" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48937:49047" ph="{&quot;text&quot;: '支付类型'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app/controller/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/api/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <marker date="1493867848000" expanded="true" signature="4436:4449" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="5021:5034" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="17713:17719" ph=" " />
+            <marker date="1493867848000" expanded="true" signature="17854:17866" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="23756:23768" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/examples/bar-basic/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="80" column="3" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="80" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="71" lean-forward="true" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app/view/TabPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="110" column="41" lean-forward="true" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <marker date="1495594278348" expanded="true" signature="1825:1886" ph="{&quot;id&quot;: 'query'...}" />
+            <marker date="1495594278348" expanded="true" signature="22926:22960" ph="{&quot;layout&quot;: 'fit'...}" />
+            <marker date="1495594278348" expanded="true" signature="23007:25079" ph="{&quot;title&quot;: '续服务时间'...}" />
+            <marker date="1495594278348" expanded="true" signature="23204:23344" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23229:23272" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23302:23338" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23358:25075" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23359:25067" ph="{&quot;id&quot;: 'continueform'...}" />
+            <marker date="1495594278348" expanded="true" signature="23613:24072" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23618:23733" ph="{&quot;id&quot;: 'contiuneTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="23738:24060" ph="{&quot;id&quot;: 'years'...}" />
+            <marker date="1495594278348" expanded="true" signature="24118:25059" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="24119:24940" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="24212:24931" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24369:24915" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24403:24892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24464:24648" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24709:24867" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24941:25058" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="25002:25049" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25126:27108" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="25320:25460" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25345:25388" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25418:25454" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25474:27104" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25475:27096" ph="{&quot;id&quot;: 'balanceform'...}" />
+            <marker date="1495594278348" expanded="true" signature="25725:26105" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25730:25844" ph="{&quot;id&quot;: 'balanceTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="25850:26093" ph="{&quot;id&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="26151:27088" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="26152:26970" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="26243:26961" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26400:26945" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26434:26922" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26495:26678" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26739:26897" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26971:27087" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="27032:27078" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27154:29229" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="27348:27488" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27373:27416" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27446:27482" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27502:29225" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27503:29217" ph="{&quot;id&quot;: 'addPoints4Truckform'...}" />
+            <marker date="1495594278348" expanded="true" signature="27760:28222" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27765:27872" ph="{&quot;id&quot;: 'truckIdf'...}" />
+            <marker date="1495594278348" expanded="true" signature="27878:28210" ph="{&quot;id&quot;: 'pointf'...}" />
+            <marker date="1495594278348" expanded="true" signature="28268:29209" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="28269:29089" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="28360:29080" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28517:29064" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28551:29041" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28612:28797" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28858:29016" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29090:29208" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="29151:29199" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29277:31300" ph="{&quot;title&quot;: '退款'...}" />
+            <marker date="1495594278348" expanded="true" signature="29471:29611" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29496:29539" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29569:29605" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29625:31296" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29626:31288" ph="{&quot;id&quot;: 'minusBalanceTallyform'...}" />
+            <marker date="1495594278348" expanded="true" signature="29887:30289" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29892:30011" ph="{&quot;id&quot;: 'minusBalanceTallyId'...}" />
+            <marker date="1495594278348" expanded="true" signature="30017:30277" ph="{&quot;id&quot;: 'minusBalanceTallybalance'...}" />
+            <marker date="1495594278348" expanded="true" signature="30335:31280" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="30336:31158" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="30427:31149" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30584:31133" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30618:31110" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30679:30866" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30927:31085" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31159:31279" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="31220:31270" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31350:33350" ph="{&quot;title&quot;: '充油卡'...}" />
+            <marker date="1495594278348" expanded="true" signature="31545:31685" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31570:31613" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31643:31679" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31699:33346" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31700:33338" ph="{&quot;id&quot;: 'jyRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="31956:32341" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31961:32078" ph="{&quot;id&quot;: 'jyRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="32084:32329" ph="{&quot;id&quot;: 'recharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="32387:33330" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="32388:33209" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="32479:33200" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32636:33184" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32670:33161" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32731:32917" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32978:33136" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33210:33329" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="33271:33320" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33400:35403" ph="{&quot;title&quot;: '充高速费'...}" />
+            <marker date="1495594278348" expanded="true" signature="33596:33736" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33621:33664" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33694:33730" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33750:35399" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="33751:35391" ph="{&quot;id&quot;: 'gsRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="34007:34394" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34012:34129" ph="{&quot;id&quot;: 'gsRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="34135:34382" ph="{&quot;id&quot;: 'gsrecharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="34440:35383" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34441:35262" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="34532:35253" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34689:35237" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34723:35214" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34784:34970" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35031:35189" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35263:35382" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="35324:35373" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35445:41685" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="35641:35781" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35666:35709" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35739:35775" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35795:41681" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="35796:41673" ph="{&quot;id&quot;: 'checkform'...}" />
+            <marker date="1495594278348" expanded="true" signature="36044:40089" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="36049:36155" ph="{&quot;id&quot;: 'truckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="36160:36402" ph="/*...*/" />
+            <marker date="1495594278348" expanded="true" signature="36414:36476" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="36511:36657" ph="{&quot;id&quot;: 'jszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="36671:36887" ph="{&quot;id&quot;: 'drivingLicenseNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="36900:36987" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37020:37163" ph="{&quot;id&quot;: 'idCardp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37171:37362" ph="{&quot;id&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37373:37426" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37459:37598" ph="{&quot;id&quot;: 'xszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37609:37799" ph="{&quot;id&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37806:37964" ph="{&quot;id&quot;: 'brandType'...}" />
+            <marker date="1495594278348" expanded="true" signature="37971:38133" ph="{&quot;id&quot;: 'truckIDCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38140:38299" ph="{&quot;id&quot;: 'motorCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38306:38470" ph="{&quot;id&quot;: 'registerDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38477:38641" ph="{&quot;id&quot;: 'dispCardDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38648:38799" ph="{&quot;id&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38806:38963" ph="{&quot;id&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38973:39131" ph="{&quot;id&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="39142:39820" ph="{&quot;id&quot;: 'checked'...}" />
+            <marker date="1495594278348" expanded="true" signature="39476:39816" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39518:39619" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39556:39607" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39657:39811" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39693:39747" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39751:39804" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39827:40077" ph="{&quot;id&quot;: 'tips'...}" />
+            <marker date="1495594278348" expanded="true" signature="39914:40076" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40135:41665" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40136:41557" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="40229:41548" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40404:41001" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40440:40986" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40478:40962" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40540:40716" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41005:41532" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41042:41515" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41103:41274" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41335:41490" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41558:41664" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="41619:41655" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41736:44894" ph="{&quot;title&quot;: '确认信息'...}" />
+            <marker date="1495594278348" expanded="true" signature="41934:42081" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41959:42002" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42031:42074" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42095:44890" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42096:44882" ph="{&quot;id&quot;: 'detailform'...}" />
+            <marker date="1495594278348" expanded="true" signature="42342:44558" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42349:42513" ph="{&quot;id&quot;: 'driverNamed'...}" />
+            <marker date="1495594278348" expanded="true" signature="42515:42669" ph="{&quot;id&quot;: 'mobiled'...}" />
+            <marker date="1495594278348" expanded="true" signature="42671:42837" ph="{&quot;name&quot;: 'plateNumberd'...}" />
+            <marker date="1495594278348" expanded="true" signature="42839:43006" ph="{&quot;name&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43008:43187" ph="{&quot;name&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43189:43350" ph="{&quot;name&quot;: 'truckType'...}" />
+            <marker date="1495594278348" expanded="true" signature="43352:43516" ph="{&quot;name&quot;: 'deadWeight'...}" />
+            <marker date="1495594278348" expanded="true" signature="43525:43681" ph="{&quot;name&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="43690:43827" ph="{&quot;name&quot;: 'expireTime'...}" />
+            <marker date="1495594278348" expanded="true" signature="43834:43983" ph="{&quot;name&quot;: 'points'...}" />
+            <marker date="1495594278348" expanded="true" signature="43990:44105" ph="{&quot;name&quot;: 'proxy'...}" />
+            <marker date="1495594278348" expanded="true" signature="44117:44267" ph="{&quot;name&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44274:44424" ph="{&quot;name&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44431:44548" ph="{&quot;name&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44604:44874" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="44605:44757" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="44696:44748" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44758:44873" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="44819:44864" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44943:47265" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="45139:45285" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45164:45207" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45236:45279" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45299:47261" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45300:47253" ph="{&quot;id&quot;: 'editform'...}" />
+            <marker date="1495594278348" expanded="true" signature="45544:46445" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45548:45653" ph="{&quot;id&quot;: 'edittruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="45660:45844" ph="{&quot;id&quot;: 'driverNamee'...}" />
+            <marker date="1495594278348" expanded="true" signature="45851:46028" ph="{&quot;id&quot;: 'mobilee'...}" />
+            <marker date="1495594278348" expanded="true" signature="46035:46222" ph="{&quot;id&quot;: 'plateNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46229:46433" ph="{&quot;id&quot;: 'drivingLicenseNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46491:47245" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="46492:47132" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="46583:47123" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46675:47107" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46712:47084" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46773:46892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46953:47059" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47133:47244" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="47194:47235" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47305:47494" ph="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+            <marker date="1495594278348" expanded="true" signature="47353:47466" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="47558:48030" ph="{&quot;model&quot;: 'StatementsModel'...}" />
+            <marker date="1495594278348" expanded="true" signature="47652:47893" ph="{&quot;method&quot;: 'POST'...}" />
+            <marker date="1495594278348" expanded="true" signature="47802:47885" ph="{&quot;root&quot;: 'root'...}" />
+            <marker date="1495594278348" expanded="true" signature="47912:48026" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47958:48017" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48262:48402" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48287:48330" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48360:48396" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48701:48742" ph="{&quot;loadingText&quot;: '正在查询,请等待...'...}" />
+            <marker date="1495594278348" expanded="true" signature="48785:48931" ph="{&quot;header&quot;: &quot;序号&quot;...}" />
+            <marker date="1495594278348" expanded="true" signature="48877:48925" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48937:49047" ph="{&quot;text&quot;: '支付类型'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app/controller/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="88" column="115" lean-forward="false" selection-start-line="88" selection-start-column="107" selection-end-line="88" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/api/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <marker date="1493867848000" expanded="true" signature="4436:4449" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="5021:5034" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="17713:17719" ph=" " />
+            <marker date="1493867848000" expanded="true" signature="17854:17866" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="23756:23768" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app/view/TabPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="55" lean-forward="false" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/index.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/html/login.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/html/table_basic.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/html/table_complete.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/myjs/index.js" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/assets/js/charts/indexChart.js" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <marker date="1495594278348" expanded="true" signature="1825:1886" ph="{&quot;id&quot;: 'query'...}" />
+            <marker date="1495594278348" expanded="true" signature="22926:22960" ph="{&quot;layout&quot;: 'fit'...}" />
+            <marker date="1495594278348" expanded="true" signature="23007:25079" ph="{&quot;title&quot;: '续服务时间'...}" />
+            <marker date="1495594278348" expanded="true" signature="23204:23344" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23229:23272" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23302:23338" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23358:25075" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23359:25067" ph="{&quot;id&quot;: 'continueform'...}" />
+            <marker date="1495594278348" expanded="true" signature="23613:24072" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23618:23733" ph="{&quot;id&quot;: 'contiuneTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="23738:24060" ph="{&quot;id&quot;: 'years'...}" />
+            <marker date="1495594278348" expanded="true" signature="24118:25059" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="24119:24940" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="24212:24931" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24369:24915" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24403:24892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24464:24648" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24709:24867" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24941:25058" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="25002:25049" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25126:27108" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="25320:25460" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25345:25388" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25418:25454" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25474:27104" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25475:27096" ph="{&quot;id&quot;: 'balanceform'...}" />
+            <marker date="1495594278348" expanded="true" signature="25725:26105" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25730:25844" ph="{&quot;id&quot;: 'balanceTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="25850:26093" ph="{&quot;id&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="26151:27088" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="26152:26970" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="26243:26961" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26400:26945" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26434:26922" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26495:26678" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26739:26897" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26971:27087" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="27032:27078" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27154:29229" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="27348:27488" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27373:27416" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27446:27482" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27502:29225" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27503:29217" ph="{&quot;id&quot;: 'addPoints4Truckform'...}" />
+            <marker date="1495594278348" expanded="true" signature="27760:28222" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27765:27872" ph="{&quot;id&quot;: 'truckIdf'...}" />
+            <marker date="1495594278348" expanded="true" signature="27878:28210" ph="{&quot;id&quot;: 'pointf'...}" />
+            <marker date="1495594278348" expanded="true" signature="28268:29209" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="28269:29089" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="28360:29080" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28517:29064" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28551:29041" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28612:28797" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28858:29016" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29090:29208" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="29151:29199" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29277:31300" ph="{&quot;title&quot;: '退款'...}" />
+            <marker date="1495594278348" expanded="true" signature="29471:29611" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29496:29539" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29569:29605" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29625:31296" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29626:31288" ph="{&quot;id&quot;: 'minusBalanceTallyform'...}" />
+            <marker date="1495594278348" expanded="true" signature="29887:30289" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29892:30011" ph="{&quot;id&quot;: 'minusBalanceTallyId'...}" />
+            <marker date="1495594278348" expanded="true" signature="30017:30277" ph="{&quot;id&quot;: 'minusBalanceTallybalance'...}" />
+            <marker date="1495594278348" expanded="true" signature="30335:31280" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="30336:31158" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="30427:31149" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30584:31133" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30618:31110" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30679:30866" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30927:31085" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31159:31279" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="31220:31270" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31350:33350" ph="{&quot;title&quot;: '充油卡'...}" />
+            <marker date="1495594278348" expanded="true" signature="31545:31685" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31570:31613" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31643:31679" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31699:33346" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31700:33338" ph="{&quot;id&quot;: 'jyRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="31956:32341" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31961:32078" ph="{&quot;id&quot;: 'jyRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="32084:32329" ph="{&quot;id&quot;: 'recharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="32387:33330" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="32388:33209" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="32479:33200" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32636:33184" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32670:33161" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32731:32917" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32978:33136" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33210:33329" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="33271:33320" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33400:35403" ph="{&quot;title&quot;: '充高速费'...}" />
+            <marker date="1495594278348" expanded="true" signature="33596:33736" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33621:33664" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33694:33730" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33750:35399" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="33751:35391" ph="{&quot;id&quot;: 'gsRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="34007:34394" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34012:34129" ph="{&quot;id&quot;: 'gsRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="34135:34382" ph="{&quot;id&quot;: 'gsrecharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="34440:35383" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34441:35262" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="34532:35253" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34689:35237" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34723:35214" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34784:34970" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35031:35189" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35263:35382" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="35324:35373" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35445:41685" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="35641:35781" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35666:35709" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35739:35775" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35795:41681" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="35796:41673" ph="{&quot;id&quot;: 'checkform'...}" />
+            <marker date="1495594278348" expanded="true" signature="36044:40089" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="36049:36155" ph="{&quot;id&quot;: 'truckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="36160:36402" ph="/*...*/" />
+            <marker date="1495594278348" expanded="true" signature="36414:36476" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="36511:36657" ph="{&quot;id&quot;: 'jszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="36671:36887" ph="{&quot;id&quot;: 'drivingLicenseNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="36900:36987" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37020:37163" ph="{&quot;id&quot;: 'idCardp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37171:37362" ph="{&quot;id&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37373:37426" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37459:37598" ph="{&quot;id&quot;: 'xszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37609:37799" ph="{&quot;id&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37806:37964" ph="{&quot;id&quot;: 'brandType'...}" />
+            <marker date="1495594278348" expanded="true" signature="37971:38133" ph="{&quot;id&quot;: 'truckIDCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38140:38299" ph="{&quot;id&quot;: 'motorCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38306:38470" ph="{&quot;id&quot;: 'registerDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38477:38641" ph="{&quot;id&quot;: 'dispCardDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38648:38799" ph="{&quot;id&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38806:38963" ph="{&quot;id&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38973:39131" ph="{&quot;id&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="39142:39820" ph="{&quot;id&quot;: 'checked'...}" />
+            <marker date="1495594278348" expanded="true" signature="39476:39816" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39518:39619" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39556:39607" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39657:39811" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39693:39747" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39751:39804" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39827:40077" ph="{&quot;id&quot;: 'tips'...}" />
+            <marker date="1495594278348" expanded="true" signature="39914:40076" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40135:41665" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40136:41557" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="40229:41548" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40404:41001" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40440:40986" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40478:40962" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40540:40716" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41005:41532" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41042:41515" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41103:41274" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41335:41490" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41558:41664" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="41619:41655" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41736:44894" ph="{&quot;title&quot;: '确认信息'...}" />
+            <marker date="1495594278348" expanded="true" signature="41934:42081" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41959:42002" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42031:42074" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42095:44890" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42096:44882" ph="{&quot;id&quot;: 'detailform'...}" />
+            <marker date="1495594278348" expanded="true" signature="42342:44558" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42349:42513" ph="{&quot;id&quot;: 'driverNamed'...}" />
+            <marker date="1495594278348" expanded="true" signature="42515:42669" ph="{&quot;id&quot;: 'mobiled'...}" />
+            <marker date="1495594278348" expanded="true" signature="42671:42837" ph="{&quot;name&quot;: 'plateNumberd'...}" />
+            <marker date="1495594278348" expanded="true" signature="42839:43006" ph="{&quot;name&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43008:43187" ph="{&quot;name&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43189:43350" ph="{&quot;name&quot;: 'truckType'...}" />
+            <marker date="1495594278348" expanded="true" signature="43352:43516" ph="{&quot;name&quot;: 'deadWeight'...}" />
+            <marker date="1495594278348" expanded="true" signature="43525:43681" ph="{&quot;name&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="43690:43827" ph="{&quot;name&quot;: 'expireTime'...}" />
+            <marker date="1495594278348" expanded="true" signature="43834:43983" ph="{&quot;name&quot;: 'points'...}" />
+            <marker date="1495594278348" expanded="true" signature="43990:44105" ph="{&quot;name&quot;: 'proxy'...}" />
+            <marker date="1495594278348" expanded="true" signature="44117:44267" ph="{&quot;name&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44274:44424" ph="{&quot;name&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44431:44548" ph="{&quot;name&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44604:44874" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="44605:44757" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="44696:44748" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44758:44873" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="44819:44864" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44943:47265" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="45139:45285" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45164:45207" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45236:45279" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45299:47261" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45300:47253" ph="{&quot;id&quot;: 'editform'...}" />
+            <marker date="1495594278348" expanded="true" signature="45544:46445" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45548:45653" ph="{&quot;id&quot;: 'edittruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="45660:45844" ph="{&quot;id&quot;: 'driverNamee'...}" />
+            <marker date="1495594278348" expanded="true" signature="45851:46028" ph="{&quot;id&quot;: 'mobilee'...}" />
+            <marker date="1495594278348" expanded="true" signature="46035:46222" ph="{&quot;id&quot;: 'plateNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46229:46433" ph="{&quot;id&quot;: 'drivingLicenseNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46491:47245" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="46492:47132" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="46583:47123" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46675:47107" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46712:47084" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46773:46892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46953:47059" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47133:47244" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="47194:47235" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47305:47494" ph="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+            <marker date="1495594278348" expanded="true" signature="47353:47466" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="47558:48030" ph="{&quot;model&quot;: 'StatementsModel'...}" />
+            <marker date="1495594278348" expanded="true" signature="47652:47893" ph="{&quot;method&quot;: 'POST'...}" />
+            <marker date="1495594278348" expanded="true" signature="47802:47885" ph="{&quot;root&quot;: 'root'...}" />
+            <marker date="1495594278348" expanded="true" signature="47912:48026" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47958:48017" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48262:48402" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48287:48330" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48360:48396" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48701:48742" ph="{&quot;loadingText&quot;: '正在查询,请等待...'...}" />
+            <marker date="1495594278348" expanded="true" signature="48785:48931" ph="{&quot;header&quot;: &quot;序号&quot;...}" />
+            <marker date="1495594278348" expanded="true" signature="48877:48925" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48937:49047" ph="{&quot;text&quot;: '支付类型'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/indexc.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/indexc.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/myjs/index.js" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/extjs/ext-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/assets/js/charts/indexChart.js" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/html/login.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/html/table_basic.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/html/table_complete.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/amazeui/index.html" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/examples/line-basic/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/api/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <marker date="1493867848000" expanded="true" signature="4436:4449" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="5021:5034" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="17713:17719" ph=" " />
+            <marker date="1493867848000" expanded="true" signature="17854:17866" ph="..." />
+            <marker date="1493867848000" expanded="true" signature="23756:23768" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="71" lean-forward="false" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app/controller/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/jsp/usermanager/truckuser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="52" selection-end-column="10" />
+          <folding>
+            <marker date="1495594278348" expanded="true" signature="1825:1886" ph="{&quot;id&quot;: 'query'...}" />
+            <marker date="1495594278348" expanded="true" signature="22926:22960" ph="{&quot;layout&quot;: 'fit'...}" />
+            <marker date="1495594278348" expanded="true" signature="23007:25079" ph="{&quot;title&quot;: '续服务时间'...}" />
+            <marker date="1495594278348" expanded="true" signature="23204:23344" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23229:23272" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23302:23338" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="23358:25075" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23359:25067" ph="{&quot;id&quot;: 'continueform'...}" />
+            <marker date="1495594278348" expanded="true" signature="23613:24072" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="23618:23733" ph="{&quot;id&quot;: 'contiuneTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="23738:24060" ph="{&quot;id&quot;: 'years'...}" />
+            <marker date="1495594278348" expanded="true" signature="24118:25059" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="24119:24940" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="24212:24931" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24369:24915" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24403:24892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24464:24648" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24709:24867" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="24941:25058" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="25002:25049" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25126:27108" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="25320:25460" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25345:25388" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25418:25454" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="25474:27104" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25475:27096" ph="{&quot;id&quot;: 'balanceform'...}" />
+            <marker date="1495594278348" expanded="true" signature="25725:26105" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="25730:25844" ph="{&quot;id&quot;: 'balanceTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="25850:26093" ph="{&quot;id&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="26151:27088" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="26152:26970" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="26243:26961" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26400:26945" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26434:26922" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26495:26678" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26739:26897" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="26971:27087" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="27032:27078" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27154:29229" ph="{&quot;title&quot;: '充值'...}" />
+            <marker date="1495594278348" expanded="true" signature="27348:27488" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27373:27416" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27446:27482" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="27502:29225" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27503:29217" ph="{&quot;id&quot;: 'addPoints4Truckform'...}" />
+            <marker date="1495594278348" expanded="true" signature="27760:28222" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="27765:27872" ph="{&quot;id&quot;: 'truckIdf'...}" />
+            <marker date="1495594278348" expanded="true" signature="27878:28210" ph="{&quot;id&quot;: 'pointf'...}" />
+            <marker date="1495594278348" expanded="true" signature="28268:29209" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="28269:29089" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="28360:29080" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28517:29064" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28551:29041" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28612:28797" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="28858:29016" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29090:29208" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="29151:29199" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29277:31300" ph="{&quot;title&quot;: '退款'...}" />
+            <marker date="1495594278348" expanded="true" signature="29471:29611" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29496:29539" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29569:29605" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="29625:31296" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29626:31288" ph="{&quot;id&quot;: 'minusBalanceTallyform'...}" />
+            <marker date="1495594278348" expanded="true" signature="29887:30289" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="29892:30011" ph="{&quot;id&quot;: 'minusBalanceTallyId'...}" />
+            <marker date="1495594278348" expanded="true" signature="30017:30277" ph="{&quot;id&quot;: 'minusBalanceTallybalance'...}" />
+            <marker date="1495594278348" expanded="true" signature="30335:31280" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="30336:31158" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="30427:31149" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30584:31133" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30618:31110" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30679:30866" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="30927:31085" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31159:31279" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="31220:31270" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31350:33350" ph="{&quot;title&quot;: '充油卡'...}" />
+            <marker date="1495594278348" expanded="true" signature="31545:31685" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31570:31613" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31643:31679" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="31699:33346" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31700:33338" ph="{&quot;id&quot;: 'jyRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="31956:32341" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="31961:32078" ph="{&quot;id&quot;: 'jyRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="32084:32329" ph="{&quot;id&quot;: 'recharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="32387:33330" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="32388:33209" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="32479:33200" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32636:33184" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32670:33161" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32731:32917" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="32978:33136" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33210:33329" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="33271:33320" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33400:35403" ph="{&quot;title&quot;: '充高速费'...}" />
+            <marker date="1495594278348" expanded="true" signature="33596:33736" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33621:33664" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33694:33730" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="33750:35399" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="33751:35391" ph="{&quot;id&quot;: 'gsRechargeform'...}" />
+            <marker date="1495594278348" expanded="true" signature="34007:34394" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34012:34129" ph="{&quot;id&quot;: 'gsRechargeTruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="34135:34382" ph="{&quot;id&quot;: 'gsrecharge'...}" />
+            <marker date="1495594278348" expanded="true" signature="34440:35383" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="34441:35262" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="34532:35253" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34689:35237" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34723:35214" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="34784:34970" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35031:35189" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35263:35382" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="35324:35373" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35445:41685" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="35641:35781" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35666:35709" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35739:35775" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="35795:41681" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="35796:41673" ph="{&quot;id&quot;: 'checkform'...}" />
+            <marker date="1495594278348" expanded="true" signature="36044:40089" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="36049:36155" ph="{&quot;id&quot;: 'truckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="36160:36402" ph="/*...*/" />
+            <marker date="1495594278348" expanded="true" signature="36414:36476" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="36511:36657" ph="{&quot;id&quot;: 'jszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="36671:36887" ph="{&quot;id&quot;: 'drivingLicenseNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="36900:36987" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37020:37163" ph="{&quot;id&quot;: 'idCardp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37171:37362" ph="{&quot;id&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37373:37426" ph="{&quot;xtype&quot;: 'label'...}" />
+            <marker date="1495594278348" expanded="true" signature="37459:37598" ph="{&quot;id&quot;: 'xszp'...}" />
+            <marker date="1495594278348" expanded="true" signature="37609:37799" ph="{&quot;id&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="37806:37964" ph="{&quot;id&quot;: 'brandType'...}" />
+            <marker date="1495594278348" expanded="true" signature="37971:38133" ph="{&quot;id&quot;: 'truckIDCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38140:38299" ph="{&quot;id&quot;: 'motorCode'...}" />
+            <marker date="1495594278348" expanded="true" signature="38306:38470" ph="{&quot;id&quot;: 'registerDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38477:38641" ph="{&quot;id&quot;: 'dispCardDate'...}" />
+            <marker date="1495594278348" expanded="true" signature="38648:38799" ph="{&quot;id&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38806:38963" ph="{&quot;id&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="38973:39131" ph="{&quot;id&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="39142:39820" ph="{&quot;id&quot;: 'checked'...}" />
+            <marker date="1495594278348" expanded="true" signature="39476:39816" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39518:39619" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39556:39607" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39657:39811" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39693:39747" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39751:39804" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="39827:40077" ph="{&quot;id&quot;: 'tips'...}" />
+            <marker date="1495594278348" expanded="true" signature="39914:40076" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40135:41665" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="40136:41557" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="40229:41548" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40404:41001" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40440:40986" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40478:40962" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="40540:40716" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41005:41532" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41042:41515" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41103:41274" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41335:41490" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41558:41664" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="41619:41655" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41736:44894" ph="{&quot;title&quot;: '确认信息'...}" />
+            <marker date="1495594278348" expanded="true" signature="41934:42081" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="41959:42002" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42031:42074" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="42095:44890" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42096:44882" ph="{&quot;id&quot;: 'detailform'...}" />
+            <marker date="1495594278348" expanded="true" signature="42342:44558" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="42349:42513" ph="{&quot;id&quot;: 'driverNamed'...}" />
+            <marker date="1495594278348" expanded="true" signature="42515:42669" ph="{&quot;id&quot;: 'mobiled'...}" />
+            <marker date="1495594278348" expanded="true" signature="42671:42837" ph="{&quot;name&quot;: 'plateNumberd'...}" />
+            <marker date="1495594278348" expanded="true" signature="42839:43006" ph="{&quot;name&quot;: 'idCardNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43008:43187" ph="{&quot;name&quot;: 'registrationNumber'...}" />
+            <marker date="1495594278348" expanded="true" signature="43189:43350" ph="{&quot;name&quot;: 'truckType'...}" />
+            <marker date="1495594278348" expanded="true" signature="43352:43516" ph="{&quot;name&quot;: 'deadWeight'...}" />
+            <marker date="1495594278348" expanded="true" signature="43525:43681" ph="{&quot;name&quot;: 'balance'...}" />
+            <marker date="1495594278348" expanded="true" signature="43690:43827" ph="{&quot;name&quot;: 'expireTime'...}" />
+            <marker date="1495594278348" expanded="true" signature="43834:43983" ph="{&quot;name&quot;: 'points'...}" />
+            <marker date="1495594278348" expanded="true" signature="43990:44105" ph="{&quot;name&quot;: 'proxy'...}" />
+            <marker date="1495594278348" expanded="true" signature="44117:44267" ph="{&quot;name&quot;: 'gsCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44274:44424" ph="{&quot;name&quot;: 'jyCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44431:44548" ph="{&quot;name&quot;: 'czCard'...}" />
+            <marker date="1495594278348" expanded="true" signature="44604:44874" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="44605:44757" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="44696:44748" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44758:44873" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="44819:44864" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="44943:47265" ph="{&quot;title&quot;: '司机审核'...}" />
+            <marker date="1495594278348" expanded="true" signature="45139:45285" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45164:45207" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45236:45279" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="45299:47261" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45300:47253" ph="{&quot;id&quot;: 'editform'...}" />
+            <marker date="1495594278348" expanded="true" signature="45544:46445" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="45548:45653" ph="{&quot;id&quot;: 'edittruckId'...}" />
+            <marker date="1495594278348" expanded="true" signature="45660:45844" ph="{&quot;id&quot;: 'driverNamee'...}" />
+            <marker date="1495594278348" expanded="true" signature="45851:46028" ph="{&quot;id&quot;: 'mobilee'...}" />
+            <marker date="1495594278348" expanded="true" signature="46035:46222" ph="{&quot;id&quot;: 'plateNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46229:46433" ph="{&quot;id&quot;: 'drivingLicenseNumbere'...}" />
+            <marker date="1495594278348" expanded="true" signature="46491:47245" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="46492:47132" ph="{&quot;text&quot;: '确定'...}" />
+            <marker date="1495594278348" expanded="true" signature="46583:47123" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46675:47107" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46712:47084" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46773:46892" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="46953:47059" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47133:47244" ph="{&quot;text&quot;: '取消'...}" />
+            <marker date="1495594278348" expanded="true" signature="47194:47235" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47305:47494" ph="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+            <marker date="1495594278348" expanded="true" signature="47353:47466" ph="[...]" />
+            <marker date="1495594278348" expanded="true" signature="47558:48030" ph="{&quot;model&quot;: 'StatementsModel'...}" />
+            <marker date="1495594278348" expanded="true" signature="47652:47893" ph="{&quot;method&quot;: 'POST'...}" />
+            <marker date="1495594278348" expanded="true" signature="47802:47885" ph="{&quot;root&quot;: 'root'...}" />
+            <marker date="1495594278348" expanded="true" signature="47912:48026" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="47958:48017" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48262:48402" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48287:48330" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48360:48396" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48701:48742" ph="{&quot;loadingText&quot;: '正在查询,请等待...'...}" />
+            <marker date="1495594278348" expanded="true" signature="48785:48931" ph="{&quot;header&quot;: &quot;序号&quot;...}" />
+            <marker date="1495594278348" expanded="true" signature="48877:48925" ph="{...}" />
+            <marker date="1495594278348" expanded="true" signature="48937:49047" ph="{&quot;text&quot;: '支付类型'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/thirdpart/highcharts/examples/bar-basic/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="80" column="3" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="80" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/app/view/TabPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="472" column="4" lean-forward="true" selection-start-line="472" selection-start-column="4" selection-end-line="472" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
